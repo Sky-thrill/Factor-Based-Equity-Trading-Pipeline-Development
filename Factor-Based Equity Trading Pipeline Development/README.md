@@ -1,13 +1,5 @@
 # Multi-Factor Models
 
-Author: Jerry Xia
-
-Date: 2018/07/27
-
-*Note: The advanced Marckdown features such as math expression may not be compatible in GitHub, please see README.pdf instead if you want more details*
-
-
-
 ## Project Introduction
 This is a research survey about alpha trading. In this project, I built up a pipeline of alpha trading including:
 
